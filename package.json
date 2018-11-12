@@ -1,0 +1,19 @@
+{
+  "name": "public",
+  "version": "1.0.0",
+  "description": "my todo app",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "marcus wennekes",
+  "license": "ISC",
+  "dependencies": {
+    "body": "^5.1.0",
+    "ejs": "^2.6.1",
+    "express": "^4.16.4",
+    "mongoose": "^5.3.11",
+    "node": "^11.1.0",
+    "parser": "^0.1.4"
+  }
+}
